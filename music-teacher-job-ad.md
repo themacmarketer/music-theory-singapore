@@ -9,11 +9,9 @@ Guitar
 Electronic Keyboard
 Please include in your resume your:
 
--highest academic qualification
-
--highest Music Practical AND Theory qualification
-
--language(s) spoken
+- highest academic qualification
+- highest Music Practical AND Theory qualification
+- language(s) spoken
 
 and your personal basic information including personal contact info, IC, age, nationality, your past working experiences, current availability for work etc.
 
